@@ -2,6 +2,6 @@
 
 ## Projects on Javascript
 
-## Restaurant menu
+## Countdown-timer
 
-I added restaurant menu file and this depict an example of a Nigerian restaurant menu with the image, price and other description for customers perusal to help while ordering food inside the restaurant.
+The countdown timer shows a toyota car thats up for giveaway on a certain date(set 10days to any date opened) for which users are to apply before the set date: Wednesday 19th June, 2024 at exactly 9pm.
